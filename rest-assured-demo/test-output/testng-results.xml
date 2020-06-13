@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29779" started-at="2020-06-02T10:52:52Z" finished-at="2020-06-02T10:53:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29779" started-at="2020-06-02T10:52:52Z" finished-at="2020-06-02T10:53:22Z">
+      <class name="com.app.test.GetRequest">
+        <test-method status="PASS" signature="deleteRequest()[pri:0, instance:com.app.test.GetRequest@1593948d]" name="deleteRequest" duration-ms="18763" started-at="2020-06-02T10:52:52Z" finished-at="2020-06-02T10:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+        <test-method status="PASS" signature="getResponseContent()[pri:0, instance:com.app.test.GetRequest@1593948d]" name="getResponseContent" duration-ms="1516" started-at="2020-06-02T10:53:11Z" finished-at="2020-06-02T10:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseContent -->
+        <test-method status="PASS" signature="getResponseHeader()[pri:0, instance:com.app.test.GetRequest@1593948d]" name="getResponseHeader" duration-ms="777" started-at="2020-06-02T10:53:12Z" finished-at="2020-06-02T10:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseHeader -->
+        <test-method status="PASS" signature="getResponseValidation()[pri:0, instance:com.app.test.GetRequest@1593948d]" name="getResponseValidation" duration-ms="5743" started-at="2020-06-02T10:53:13Z" finished-at="2020-06-02T10:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseValidation -->
+        <test-method status="PASS" signature="postRequest()[pri:0, instance:com.app.test.GetRequest@1593948d]" name="postRequest" duration-ms="1538" started-at="2020-06-02T10:53:19Z" finished-at="2020-06-02T10:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+        <test-method status="PASS" signature="putRequest()[pri:0, instance:com.app.test.GetRequest@1593948d]" name="putRequest" duration-ms="1097" started-at="2020-06-02T10:53:21Z" finished-at="2020-06-02T10:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequest -->
+      </class> <!-- com.app.test.GetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
