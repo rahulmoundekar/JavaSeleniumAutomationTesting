@@ -1,0 +1,6 @@
+com\app\locators\LoginPageLocators.class
+com\app\utility\SeleniumDriver.class
+com\app\locators\CatalogProductLoctors.class
+com\app\steps\NopLoginSteps.class
+com\app\runner\TestRunner.class
+com\app\action\LoginPageAction.class
